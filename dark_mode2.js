@@ -12,5 +12,7 @@ $(document.body).click(function () {
 });
 
 $(document).ready(function() {
-    $('<button class="btn">Dark Mode</button>').appendTo('body');
+    $('<button id="btn">Dark Mode 🌑</button>').appendTo('body');
+
+    
 });
